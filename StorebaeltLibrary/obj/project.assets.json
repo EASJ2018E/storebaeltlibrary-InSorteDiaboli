@@ -183,11 +183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\source\\StoreBaeltBilletLibrary\\storebaeltlibrary-InSorteDiaboli\\storebaeltlibrary-InSorteDiaboli.csproj",
-      "projectName": "storebaeltlibrary-InSorteDiaboli",
-      "projectPath": "C:\\source\\StoreBaeltBilletLibrary\\storebaeltlibrary-InSorteDiaboli\\storebaeltlibrary-InSorteDiaboli.csproj",
+      "projectUniqueName": "C:\\source\\StoreBaeltBilletLibrary\\storebaeltlibrary-InSorteDiaboli\\StorebaeltLibrary\\StoreBaeltBilletLibrary.csproj",
+      "projectName": "StoreBaeltBilletLibrary",
+      "projectPath": "C:\\source\\StoreBaeltBilletLibrary\\storebaeltlibrary-InSorteDiaboli\\StorebaeltLibrary\\StoreBaeltBilletLibrary.csproj",
       "packagesPath": "C:\\Users\\LouisVerond\\.nuget\\packages\\",
-      "outputPath": "C:\\source\\StoreBaeltBilletLibrary\\storebaeltlibrary-InSorteDiaboli\\obj\\",
+      "outputPath": "C:\\source\\StoreBaeltBilletLibrary\\storebaeltlibrary-InSorteDiaboli\\StorebaeltLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

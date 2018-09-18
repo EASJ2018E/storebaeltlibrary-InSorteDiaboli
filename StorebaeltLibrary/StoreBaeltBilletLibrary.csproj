@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>bin\Debug\netstandard2.0\StoreBaeltBilletLibrary.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="BilletLibrary">
+      <HintPath>..\..\..\BilletLibrary\billetlibrary-InSorteDiaboli\BilletLibrary\bin\Debug\netstandard2.0\BilletLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
