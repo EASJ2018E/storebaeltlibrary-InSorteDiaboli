@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BilletLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:BilletLibrary.Bil">
+            <summary>
+            Bilklasse som opretter et objekt af bil når det intialiseres
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BilletLibrary.Bil.Pris">
+            <summary>
+            Metode til at printe prisen på bilen
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BilletLibrary.Bil.KøretøjNavn">
+            <summary>
+            Metode til at printe køretøjets navn ud
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:BilletLibrary.Køretøj">
+            <summary>
+            Abstract klasse som alle køretøjer nedarver fra
+            </summary>
+        </member>
+        <member name="T:BilletLibrary.MC">
+            <summary>
+            Bilklasse som opretter et objekt af mc når det intialiseres
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BilletLibrary.MC.Pris">
+            <summary>
+            Metode til at printe prisen på MC
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BilletLibrary.MC.KøretøjNavn">
+            <summary>
+            Metode til at printe navnet på køretøjet
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
